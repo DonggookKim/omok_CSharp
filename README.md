@@ -14,4 +14,4 @@ compiler goboard.cs
 Notepad, Notepad++, command console
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+DonggookKim
